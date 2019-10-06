@@ -1,0 +1,25 @@
+# Brandon Roberts
+# Space trivia
+
+print("Welcome to the epitome of space trivia!")
+name = input("Enter your name: ")
+print("Hello", name.capitalize(), "I hope you are ready to begin!")
+print("The following is a series of questions to help you determine just how much you may know about space.")
+print()
+print()
+total = 0
+print("Question 1: What is the name of the branch of science that deals with")
+print("the physical nature of stars and other celestial bodies?")
+a = print("a. Space Science")
+b = print("b. Astronomy")
+c = print("c. Astrophysics")
+d = print("d. Space Physics")
+answer = input("Please enter your answer:")
+if answer = c:
+    total = total + 1
+else:
+    total = 0
+print()
+print()
+print("Congratulations, your final score is ", total)
+# figure out how to properly format question to allow for letter input
