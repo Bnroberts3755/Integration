@@ -1,5 +1,10 @@
+
 # Brandon Roberts
 # Space trivia
+# Lines 6-9, 12-23, 25-31, 44-53, "Building a Multiple Choice Quiz - Mike Dane" on YouTube.
+#      -turning the whole quiz into a looping function and pulling from an array made this a whole lot easier.
+#      -altered code where not code-breaking in order to clean up
+# restart function still broken in Pycharm
 
 
 class Question:
